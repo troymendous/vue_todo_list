@@ -42,3 +42,5 @@ export default {
   float: right;
 }
 </style>
+
+//just adding this so git tree isn't clean due to changing a file name to fix the glitchy bug. 
